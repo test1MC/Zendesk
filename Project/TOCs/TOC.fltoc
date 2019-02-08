@@ -82,4 +82,15 @@
       Title="Topic-J"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
+  <TocEntry
+    Title="Don">
+    <TocEntry
+      Title="Flame"
+      Link="/Content/Don/Flame.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="HorseHead"
+      Link="/Content/Don/HorseHead.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
 </CatapultToc>
