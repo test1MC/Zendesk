@@ -10,7 +10,7 @@
   ViewUrl="http://www.madcapsoftware.com/"
   Type="zendesk"
   ClickUrl="https://d3v-qatestaccount.zendesk.com"
-  DefaultCategory="360001412493"
-  DefaultSection="360003258193"
+  DefaultCategory="360001407934"
+  DefaultSection="360003268633"
   PublishAfterUpload="true"
   PreserveUnsafeHtml="true"></CatapultDestination>
