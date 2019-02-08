@@ -14,5 +14,5 @@
   DefaultSection="360003268633"
   PublishAfterUpload="true"
   PreserveUnsafeHtml="true"
-  RemoveStale="false"
-  ChangedOnly="true"></CatapultDestination>
+  RemoveStale="true"
+   ChangedOnly="true"></CatapultDestination>

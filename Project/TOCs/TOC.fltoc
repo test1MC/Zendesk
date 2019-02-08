@@ -86,4 +86,15 @@
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Don/rosette.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
+  <TocEntry
+    Title="Archive Test">
+    <TocEntry
+      Title="Topic-r4"
+      Link="/Content/Archive Test/Topic-r4.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Topic-r5"
+      Link="/Content/Archive Test/Topic-r5.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
 </CatapultToc>
