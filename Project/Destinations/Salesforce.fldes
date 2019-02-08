@@ -11,4 +11,5 @@
   Type="salesforce"
   ArticleType="Albert__kav"
   RecordType="0121N000000oEvgQAE"
-  PublishAfterUpload="true"></CatapultDestination>
+  PublishAfterUpload="true"
+  RemoveStale="false"></CatapultDestination>
