@@ -12,4 +12,5 @@
   ArticleType="Albert__kav"
   RecordType="0121N000000oEvgQAE"
   PublishAfterUpload="true"
-  RemoveStale="false"></CatapultDestination>
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>
