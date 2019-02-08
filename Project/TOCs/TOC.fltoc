@@ -69,13 +69,16 @@
   <TocEntry
     Title="Don">
     <TocEntry
-      Title="Flame"
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/Don/Flame.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
-      Title="HorseHead"
+      Title="[%=System.LinkedTitle%]"
       Link="/Content/Don/HorseHead.htm"
       MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Don/Lagoon.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Don/Orion.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
