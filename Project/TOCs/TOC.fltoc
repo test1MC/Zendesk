@@ -85,6 +85,9 @@
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Don/rosette.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/Newly added topic to root.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   </TocEntry>
   <TocEntry
     Title="Archive Test">
