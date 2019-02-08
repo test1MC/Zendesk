@@ -13,4 +13,6 @@
   DefaultCategory="360001407934"
   DefaultSection="360003268633"
   PublishAfterUpload="true"
-  PreserveUnsafeHtml="true"></CatapultDestination>
+  PreserveUnsafeHtml="true"
+  RemoveStale="false"
+  ChangedOnly="false"></CatapultDestination>

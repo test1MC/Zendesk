@@ -13,7 +13,7 @@
     GenerateGlossaryProxy="true" />
   <Destinations>
     <Destination
-      Link="/Project/Destinations/Salesforce.fldes"
+      Link="/Project/Destinations/NewDestination.fldes"
       Publish="true" />
   </Destinations>
 </CatapultTarget>
