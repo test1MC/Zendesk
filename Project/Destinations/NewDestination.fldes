@@ -15,4 +15,4 @@
   PublishAfterUpload="true"
   PreserveUnsafeHtml="true"
   RemoveStale="false"
-  ChangedOnly="false"></CatapultDestination>
+  ChangedOnly="true"></CatapultDestination>
